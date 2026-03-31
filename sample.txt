@@ -1,0 +1,2000 @@
+Patient is a 48-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 9.23 cm and grade is I.
+
+Patient is a 47-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 0.87 cm and grade is II.
+
+Patient is a 12-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 2.33 cm and grade is II.
+
+Patient is a 38-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 1.45 cm and grade is III.
+
+Patient is a 35-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 6.45 cm and grade is I.
+
+Patient is a 46-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 2.82 cm and grade is III.
+
+Patient is a 71-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 1.29 cm and grade is I.
+
+Patient is a 16-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 7.83 cm and grade is II.
+
+Patient is a 38-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 0.72 cm and grade is II.
+
+Patient is a 77-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 2.07 cm and grade is II.
+
+Patient is a 66-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 1.7 cm and grade is I.
+
+Patient is a 87-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 1.43 cm and grade is II.
+
+Patient is a 57-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 8.88 cm and grade is I.
+
+Patient is a 50-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 9.6 cm and grade is III.
+
+Patient is a 47-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 6.5 cm and grade is I.
+
+Patient is a 8-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 6.45 cm and grade is III.
+
+Patient is a 74-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 3.06 cm and grade is I.
+
+Patient is a 4-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 5.21 cm and grade is III.
+
+Patient is a 42-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 9.64 cm and grade is II.
+
+Patient is a 40-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 9.37 cm and grade is III.
+
+Patient is a 34-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 10.0 cm and grade is II.
+
+Patient is a 9-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 5.74 cm and grade is II.
+
+Patient is a 47-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 2.13 cm and grade is III.
+
+Patient is a 31-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 0.97 cm and grade is I.
+
+Patient is a 15-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 3.82 cm and grade is I.
+
+Patient is a 67-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 3.84 cm and grade is IV.
+
+Patient is a 12-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 8.99 cm and grade is I.
+
+Patient is a 4-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 5.74 cm and grade is IV.
+
+Patient is a 72-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 6.87 cm and grade is I.
+
+Patient is a 33-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 1.86 cm and grade is I.
+
+Patient is a 56-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 8.21 cm and grade is II.
+
+Patient is a 16-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 8.03 cm and grade is IV.
+
+Patient is a 23-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 5.05 cm and grade is I.
+
+Patient is a 70-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 5.82 cm and grade is IV.
+
+Patient is a 15-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 3.98 cm and grade is II.
+
+Patient is a 58-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 3.13 cm and grade is II.
+
+Patient is a 86-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 8.19 cm and grade is IV.
+
+Patient is a 23-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 0.64 cm and grade is II.
+
+Patient is a 69-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 6.1 cm and grade is III.
+
+Patient is a 33-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 6.76 cm and grade is III.
+
+Patient is a 35-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 0.94 cm and grade is II.
+
+Patient is a 47-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 9.39 cm and grade is III.
+
+Patient is a 74-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 7.25 cm and grade is I.
+
+Patient is a 1-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 7.49 cm and grade is IV.
+
+Patient is a 30-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 4.03 cm and grade is I.
+
+Patient is a 66-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 6.31 cm and grade is IV.
+
+Patient is a 44-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 9.79 cm and grade is II.
+
+Patient is a 32-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 8.83 cm and grade is I.
+
+Patient is a 12-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 5.23 cm and grade is II.
+
+Patient is a 73-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 5.45 cm and grade is II.
+
+Patient is a 42-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 1.26 cm and grade is IV.
+
+Patient is a 12-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 0.58 cm and grade is IV.
+
+Patient is a 16-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 7.68 cm and grade is IV.
+
+Patient is a 85-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 9.5 cm and grade is I.
+
+Patient is a 9-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 2.85 cm and grade is III.
+
+Patient is a 18-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 7.77 cm and grade is IV.
+
+Patient is a 59-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 9.7 cm and grade is IV.
+
+Patient is a 32-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 1.08 cm and grade is I.
+
+Patient is a 79-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 4.96 cm and grade is IV.
+
+Patient is a 19-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 6.51 cm and grade is I.
+
+Patient is a 53-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 5.8 cm and grade is II.
+
+Patient is a 2-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 8.21 cm and grade is IV.
+
+Patient is a 40-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 2.43 cm and grade is IV.
+
+Patient is a 40-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 0.59 cm and grade is II.
+
+Patient is a 73-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 1.61 cm and grade is II.
+
+Patient is a 46-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 5.84 cm and grade is II.
+
+Patient is a 79-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 4.17 cm and grade is IV.
+
+Patient is a 21-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 6.81 cm and grade is III.
+
+Patient is a 36-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 7.37 cm and grade is III.
+
+Patient is a 63-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 5.27 cm and grade is III.
+
+Patient is a 43-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 2.11 cm and grade is IV.
+
+Patient is a 16-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 8.19 cm and grade is II.
+
+Patient is a 71-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 2.8 cm and grade is IV.
+
+Patient is a 13-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 6.28 cm and grade is II.
+
+Patient is a 57-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 8.4 cm and grade is IV.
+
+Patient is a 50-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 1.96 cm and grade is IV.
+
+Patient is a 28-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 5.27 cm and grade is II.
+
+Patient is a 31-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 3.82 cm and grade is III.
+
+Patient is a 39-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 1.36 cm and grade is II.
+
+Patient is a 34-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 5.21 cm and grade is I.
+
+Patient is a 69-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 9.92 cm and grade is I.
+
+Patient is a 13-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 1.34 cm and grade is II.
+
+Patient is a 23-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 5.8 cm and grade is IV.
+
+Patient is a 48-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 3.88 cm and grade is I.
+
+Patient is a 85-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 4.98 cm and grade is I.
+
+Patient is a 17-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 3.82 cm and grade is IV.
+
+Patient is a 46-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 3.0 cm and grade is IV.
+
+Patient is a 75-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 5.08 cm and grade is III.
+
+Patient is a 58-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 9.39 cm and grade is IV.
+
+Patient is a 53-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 0.7 cm and grade is II.
+
+Patient is a 67-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 2.12 cm and grade is II.
+
+Patient is a 24-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 1.79 cm and grade is III.
+
+Patient is a 36-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 8.13 cm and grade is I.
+
+Patient is a 17-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 5.88 cm and grade is I.
+
+Patient is a 58-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 5.6 cm and grade is IV.
+
+Patient is a 4-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 2.87 cm and grade is II.
+
+Patient is a 17-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 9.4 cm and grade is I.
+
+Patient is a 48-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 1.43 cm and grade is III.
+
+Patient is a 34-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 0.84 cm and grade is III.
+
+Patient is a 11-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 3.82 cm and grade is II.
+
+Patient is a 80-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 2.04 cm and grade is III.
+
+Patient is a 65-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 4.56 cm and grade is III.
+
+Patient is a 6-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 4.31 cm and grade is II.
+
+Patient is a 59-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 1.14 cm and grade is IV.
+
+Patient is a 67-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 5.42 cm and grade is IV.
+
+Patient is a 11-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 8.94 cm and grade is III.
+
+Patient is a 19-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 4.95 cm and grade is IV.
+
+Patient is a 41-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 2.33 cm and grade is IV.
+
+Patient is a 55-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 4.13 cm and grade is III.
+
+Patient is a 59-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 1.1 cm and grade is IV.
+
+Patient is a 42-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 1.09 cm and grade is III.
+
+Patient is a 50-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 6.87 cm and grade is I.
+
+Patient is a 52-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 9.97 cm and grade is II.
+
+Patient is a 4-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 2.76 cm and grade is II.
+
+Patient is a 48-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 1.41 cm and grade is IV.
+
+Patient is a 43-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 3.2 cm and grade is IV.
+
+Patient is a 73-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 3.55 cm and grade is IV.
+
+Patient is a 24-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 7.72 cm and grade is II.
+
+Patient is a 63-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 3.84 cm and grade is I.
+
+Patient is a 5-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 5.27 cm and grade is I.
+
+Patient is a 75-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 8.1 cm and grade is II.
+
+Patient is a 63-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 6.06 cm and grade is I.
+
+Patient is a 57-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 2.3 cm and grade is II.
+
+Patient is a 89-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 7.49 cm and grade is I.
+
+Patient is a 26-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 4.31 cm and grade is III.
+
+Patient is a 14-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 5.82 cm and grade is III.
+
+Patient is a 72-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 4.29 cm and grade is II.
+
+Patient is a 20-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 6.19 cm and grade is I.
+
+Patient is a 13-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 2.24 cm and grade is IV.
+
+Patient is a 83-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 1.63 cm and grade is I.
+
+Patient is a 18-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 7.94 cm and grade is III.
+
+Patient is a 36-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 1.78 cm and grade is III.
+
+Patient is a 48-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 5.94 cm and grade is I.
+
+Patient is a 88-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 1.45 cm and grade is I.
+
+Patient is a 35-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 7.05 cm and grade is IV.
+
+Patient is a 48-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.48 cm and grade is IV.
+
+Patient is a 48-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 0.64 cm and grade is I.
+
+Patient is a 48-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 5.37 cm and grade is I.
+
+Patient is a 75-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 7.9 cm and grade is I.
+
+Patient is a 33-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 6.52 cm and grade is I.
+
+Patient is a 63-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 1.47 cm and grade is II.
+
+Patient is a 30-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 5.27 cm and grade is I.
+
+Patient is a 53-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 4.02 cm and grade is IV.
+
+Patient is a 85-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 4.36 cm and grade is III.
+
+Patient is a 9-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 5.79 cm and grade is II.
+
+Patient is a 25-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 2.08 cm and grade is I.
+
+Patient is a 52-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 0.88 cm and grade is III.
+
+Patient is a 59-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.79 cm and grade is II.
+
+Patient is a 23-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 1.53 cm and grade is III.
+
+Patient is a 24-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 2.85 cm and grade is I.
+
+Patient is a 7-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 1.86 cm and grade is I.
+
+Patient is a 36-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 6.1 cm and grade is IV.
+
+Patient is a 25-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 8.56 cm and grade is I.
+
+Patient is a 13-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 0.87 cm and grade is I.
+
+Patient is a 19-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 6.42 cm and grade is II.
+
+Patient is a 13-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 3.52 cm and grade is IV.
+
+Patient is a 26-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 8.78 cm and grade is II.
+
+Patient is a 73-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 4.8 cm and grade is III.
+
+Patient is a 70-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 9.22 cm and grade is I.
+
+Patient is a 39-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 4.31 cm and grade is III.
+
+Patient is a 23-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 5.05 cm and grade is II.
+
+Patient is a 64-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 1.74 cm and grade is I.
+
+Patient is a 23-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 8.21 cm and grade is I.
+
+Patient is a 7-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 9.04 cm and grade is II.
+
+Patient is a 65-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 4.18 cm and grade is II.
+
+Patient is a 63-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 3.63 cm and grade is II.
+
+Patient is a 33-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 8.61 cm and grade is II.
+
+Patient is a 50-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 4.03 cm and grade is II.
+
+Patient is a 7-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 7.36 cm and grade is I.
+
+Patient is a 17-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 5.15 cm and grade is II.
+
+Patient is a 87-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 1.45 cm and grade is I.
+
+Patient is a 68-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 5.48 cm and grade is I.
+
+Patient is a 24-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 9.65 cm and grade is II.
+
+Patient is a 81-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 6.2 cm and grade is II.
+
+Patient is a 39-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 2.26 cm and grade is IV.
+
+Patient is a 27-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 8.43 cm and grade is I.
+
+Patient is a 4-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 0.58 cm and grade is II.
+
+Patient is a 82-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 9.74 cm and grade is II.
+
+Patient is a 12-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 1.75 cm and grade is II.
+
+Patient is a 72-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 4.31 cm and grade is IV.
+
+Patient is a 62-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 8.25 cm and grade is IV.
+
+Patient is a 45-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 9.45 cm and grade is III.
+
+Patient is a 58-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 1.89 cm and grade is I.
+
+Patient is a 80-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 1.09 cm and grade is III.
+
+Patient is a 39-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 6.19 cm and grade is II.
+
+Patient is a 63-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 3.71 cm and grade is IV.
+
+Patient is a 69-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 1.93 cm and grade is IV.
+
+Patient is a 18-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 4.23 cm and grade is III.
+
+Patient is a 67-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 7.03 cm and grade is IV.
+
+Patient is a 58-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 3.27 cm and grade is II.
+
+Patient is a 15-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 3.06 cm and grade is IV.
+
+Patient is a 39-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 9.75 cm and grade is III.
+
+Patient is a 41-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 2.85 cm and grade is II.
+
+Patient is a 2-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 3.68 cm and grade is III.
+
+Patient is a 17-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 4.31 cm and grade is IV.
+
+Patient is a 18-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 4.32 cm and grade is III.
+
+Patient is a 29-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 6.57 cm and grade is III.
+
+Patient is a 46-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 7.64 cm and grade is I.
+
+Patient is a 85-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 7.55 cm and grade is IV.
+
+Patient is a 19-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 1.06 cm and grade is IV.
+
+Patient is a 67-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 4.62 cm and grade is III.
+
+Patient is a 40-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 5.17 cm and grade is I.
+
+Patient is a 4-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 0.9 cm and grade is IV.
+
+Patient is a 70-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 6.95 cm and grade is II.
+
+Patient is a 8-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 8.7 cm and grade is III.
+
+Patient is a 41-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 8.13 cm and grade is IV.
+
+Patient is a 4-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 5.24 cm and grade is II.
+
+Patient is a 87-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 0.84 cm and grade is IV.
+
+Patient is a 26-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 0.63 cm and grade is II.
+
+Patient is a 84-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 3.63 cm and grade is III.
+
+Patient is a 6-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.81 cm and grade is IV.
+
+Patient is a 53-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 3.73 cm and grade is IV.
+
+Patient is a 82-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 4.08 cm and grade is I.
+
+Patient is a 85-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 0.94 cm and grade is III.
+
+Patient is a 18-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 6.71 cm and grade is II.
+
+Patient is a 7-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 2.32 cm and grade is IV.
+
+Patient is a 3-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 7.14 cm and grade is IV.
+
+Patient is a 49-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 0.68 cm and grade is II.
+
+Patient is a 87-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 8.21 cm and grade is III.
+
+Patient is a 24-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 9.65 cm and grade is I.
+
+Patient is a 45-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 2.67 cm and grade is I.
+
+Patient is a 34-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 2.46 cm and grade is IV.
+
+Patient is a 34-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 6.82 cm and grade is II.
+
+Patient is a 31-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 4.94 cm and grade is IV.
+
+Patient is a 43-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 9.96 cm and grade is II.
+
+Patient is a 57-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 0.84 cm and grade is I.
+
+Patient is a 49-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 5.59 cm and grade is III.
+
+Patient is a 87-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 8.3 cm and grade is II.
+
+Patient is a 65-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 9.22 cm and grade is I.
+
+Patient is a 14-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 2.63 cm and grade is IV.
+
+Patient is a 10-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 2.28 cm and grade is II.
+
+Patient is a 74-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 8.36 cm and grade is III.
+
+Patient is a 65-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 0.55 cm and grade is IV.
+
+Patient is a 84-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 6.8 cm and grade is IV.
+
+Patient is a 88-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 2.88 cm and grade is I.
+
+Patient is a 6-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 6.35 cm and grade is II.
+
+Patient is a 82-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 9.78 cm and grade is IV.
+
+Patient is a 84-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 7.77 cm and grade is III.
+
+Patient is a 68-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 4.24 cm and grade is II.
+
+Patient is a 22-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 4.68 cm and grade is III.
+
+Patient is a 79-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 7.68 cm and grade is IV.
+
+Patient is a 49-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 1.82 cm and grade is III.
+
+Patient is a 11-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 6.82 cm and grade is I.
+
+Patient is a 79-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 4.16 cm and grade is III.
+
+Patient is a 17-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 4.68 cm and grade is II.
+
+Patient is a 10-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 3.96 cm and grade is III.
+
+Patient is a 23-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 4.06 cm and grade is III.
+
+Patient is a 26-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 8.22 cm and grade is I.
+
+Patient is a 3-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 5.72 cm and grade is III.
+
+Patient is a 52-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 4.28 cm and grade is III.
+
+Patient is a 84-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 6.25 cm and grade is IV.
+
+Patient is a 54-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 6.92 cm and grade is IV.
+
+Patient is a 72-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 0.89 cm and grade is II.
+
+Patient is a 64-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 9.55 cm and grade is IV.
+
+Patient is a 49-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 8.78 cm and grade is IV.
+
+Patient is a 41-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 4.78 cm and grade is IV.
+
+Patient is a 19-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 8.79 cm and grade is IV.
+
+Patient is a 17-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 7.94 cm and grade is I.
+
+Patient is a 33-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 9.04 cm and grade is IV.
+
+Patient is a 47-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 3.7 cm and grade is I.
+
+Patient is a 72-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 1.06 cm and grade is I.
+
+Patient is a 54-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 6.71 cm and grade is IV.
+
+Patient is a 23-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 8.23 cm and grade is III.
+
+Patient is a 15-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 4.24 cm and grade is I.
+
+Patient is a 27-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 3.52 cm and grade is III.
+
+Patient is a 57-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 5.79 cm and grade is III.
+
+Patient is a 79-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 7.52 cm and grade is IV.
+
+Patient is a 40-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 3.58 cm and grade is II.
+
+Patient is a 70-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 4.46 cm and grade is IV.
+
+Patient is a 15-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 3.73 cm and grade is II.
+
+Patient is a 33-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 0.63 cm and grade is II.
+
+Patient is a 64-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 4.09 cm and grade is IV.
+
+Patient is a 88-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 8.19 cm and grade is IV.
+
+Patient is a 10-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 9.04 cm and grade is II.
+
+Patient is a 34-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 4.68 cm and grade is IV.
+
+Patient is a 45-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 6.71 cm and grade is II.
+
+Patient is a 59-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 6.61 cm and grade is III.
+
+Patient is a 55-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 5.48 cm and grade is IV.
+
+Patient is a 26-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 5.57 cm and grade is III.
+
+Patient is a 47-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 9.91 cm and grade is I.
+
+Patient is a 54-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 3.97 cm and grade is III.
+
+Patient is a 12-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 9.65 cm and grade is III.
+
+Patient is a 53-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 9.98 cm and grade is II.
+
+Patient is a 5-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 9.67 cm and grade is III.
+
+Patient is a 70-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 4.02 cm and grade is IV.
+
+Patient is a 54-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 3.97 cm and grade is II.
+
+Patient is a 29-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 1.09 cm and grade is I.
+
+Patient is a 27-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 6.9 cm and grade is IV.
+
+Patient is a 43-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 9.05 cm and grade is I.
+
+Patient is a 69-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 5.79 cm and grade is III.
+
+Patient is a 32-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 7.66 cm and grade is IV.
+
+Patient is a 6-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 8.99 cm and grade is IV.
+
+Patient is a 13-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 5.59 cm and grade is I.
+
+Patient is a 71-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 2.43 cm and grade is IV.
+
+Patient is a 18-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 7.71 cm and grade is IV.
+
+Patient is a 42-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 1.2 cm and grade is IV.
+
+Patient is a 76-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 4.52 cm and grade is III.
+
+Patient is a 42-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 3.47 cm and grade is I.
+
+Patient is a 9-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 5.37 cm and grade is IV.
+
+Patient is a 55-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 1.82 cm and grade is II.
+
+Patient is a 33-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 2.61 cm and grade is II.
+
+Patient is a 35-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 1.16 cm and grade is II.
+
+Patient is a 21-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 6.52 cm and grade is II.
+
+Patient is a 48-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 8.35 cm and grade is III.
+
+Patient is a 24-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 7.14 cm and grade is IV.
+
+Patient is a 3-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 9.14 cm and grade is I.
+
+Patient is a 35-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 0.51 cm and grade is IV.
+
+Patient is a 62-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 3.13 cm and grade is III.
+
+Patient is a 44-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 9.72 cm and grade is II.
+
+Patient is a 62-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 5.91 cm and grade is III.
+
+Patient is a 32-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 2.62 cm and grade is IV.
+
+Patient is a 47-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 8.74 cm and grade is I.
+
+Patient is a 63-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 9.97 cm and grade is III.
+
+Patient is a 82-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 5.43 cm and grade is I.
+
+Patient is a 84-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 1.75 cm and grade is III.
+
+Patient is a 65-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 6.92 cm and grade is I.
+
+Patient is a 33-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 6.76 cm and grade is I.
+
+Patient is a 49-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 9.08 cm and grade is II.
+
+Patient is a 41-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 9.55 cm and grade is I.
+
+Patient is a 65-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 7.73 cm and grade is II.
+
+Patient is a 89-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 8.32 cm and grade is IV.
+
+Patient is a 67-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 2.54 cm and grade is IV.
+
+Patient is a 76-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 1.84 cm and grade is II.
+
+Patient is a 6-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 1.25 cm and grade is II.
+
+Patient is a 16-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 2.88 cm and grade is III.
+
+Patient is a 57-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 0.51 cm and grade is III.
+
+Patient is a 6-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 6.95 cm and grade is III.
+
+Patient is a 67-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 6.05 cm and grade is IV.
+
+Patient is a 84-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 0.83 cm and grade is III.
+
+Patient is a 58-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 4.36 cm and grade is I.
+
+Patient is a 75-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 6.85 cm and grade is I.
+
+Patient is a 49-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 7.83 cm and grade is III.
+
+Patient is a 43-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 5.5 cm and grade is I.
+
+Patient is a 21-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 7.07 cm and grade is IV.
+
+Patient is a 20-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 0.77 cm and grade is I.
+
+Patient is a 31-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 0.94 cm and grade is IV.
+
+Patient is a 9-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 4.6 cm and grade is II.
+
+Patient is a 85-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 0.88 cm and grade is II.
+
+Patient is a 75-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 7.55 cm and grade is II.
+
+Patient is a 5-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 2.05 cm and grade is II.
+
+Patient is a 2-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 6.5 cm and grade is I.
+
+Patient is a 7-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 5.6 cm and grade is III.
+
+Patient is a 40-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 9.46 cm and grade is I.
+
+Patient is a 10-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 7.69 cm and grade is IV.
+
+Patient is a 76-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 1.92 cm and grade is I.
+
+Patient is a 8-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 4.02 cm and grade is I.
+
+Patient is a 85-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 3.74 cm and grade is IV.
+
+Patient is a 59-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 4.81 cm and grade is II.
+
+Patient is a 6-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 6.68 cm and grade is II.
+
+Patient is a 75-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 4.43 cm and grade is II.
+
+Patient is a 61-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 3.09 cm and grade is III.
+
+Patient is a 15-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 6.31 cm and grade is IV.
+
+Patient is a 15-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 8.43 cm and grade is IV.
+
+Patient is a 39-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 1.35 cm and grade is I.
+
+Patient is a 69-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 5.26 cm and grade is III.
+
+Patient is a 64-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 5.58 cm and grade is II.
+
+Patient is a 24-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 4.52 cm and grade is III.
+
+Patient is a 5-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 3.74 cm and grade is IV.
+
+Patient is a 24-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 7.84 cm and grade is IV.
+
+Patient is a 51-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 2.03 cm and grade is I.
+
+Patient is a 19-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 1.1 cm and grade is I.
+
+Patient is a 78-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 8.58 cm and grade is IV.
+
+Patient is a 62-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 7.55 cm and grade is II.
+
+Patient is a 15-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 1.46 cm and grade is II.
+
+Patient is a 73-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 2.61 cm and grade is III.
+
+Patient is a 88-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 9.65 cm and grade is IV.
+
+Patient is a 58-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 9.37 cm and grade is IV.
+
+Patient is a 76-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 1.31 cm and grade is II.
+
+Patient is a 66-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 5.89 cm and grade is II.
+
+Patient is a 10-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 8.73 cm and grade is IV.
+
+Patient is a 16-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 4.5 cm and grade is I.
+
+Patient is a 34-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 5.56 cm and grade is IV.
+
+Patient is a 30-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 2.13 cm and grade is IV.
+
+Patient is a 27-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 9.48 cm and grade is II.
+
+Patient is a 52-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 6.25 cm and grade is II.
+
+Patient is a 71-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 2.78 cm and grade is I.
+
+Patient is a 12-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 7.36 cm and grade is I.
+
+Patient is a 60-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 0.82 cm and grade is III.
+
+Patient is a 57-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 8.22 cm and grade is IV.
+
+Patient is a 41-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 2.07 cm and grade is II.
+
+Patient is a 22-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 6.06 cm and grade is I.
+
+Patient is a 48-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 8.26 cm and grade is III.
+
+Patient is a 16-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 4.69 cm and grade is III.
+
+Patient is a 29-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 8.3 cm and grade is II.
+
+Patient is a 54-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 3.11 cm and grade is II.
+
+Patient is a 66-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 2.59 cm and grade is III.
+
+Patient is a 34-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 9.6 cm and grade is I.
+
+Patient is a 62-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 4.57 cm and grade is III.
+
+Patient is a 34-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 6.92 cm and grade is IV.
+
+Patient is a 15-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 5.86 cm and grade is IV.
+
+Patient is a 54-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 3.78 cm and grade is II.
+
+Patient is a 86-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 4.68 cm and grade is I.
+
+Patient is a 45-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 5.54 cm and grade is I.
+
+Patient is a 15-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 7.67 cm and grade is IV.
+
+Patient is a 16-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 7.94 cm and grade is III.
+
+Patient is a 13-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 9.52 cm and grade is II.
+
+Patient is a 87-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 0.61 cm and grade is III.
+
+Patient is a 70-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 2.76 cm and grade is III.
+
+Patient is a 27-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 8.84 cm and grade is III.
+
+Patient is a 39-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 5.26 cm and grade is I.
+
+Patient is a 26-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 8.29 cm and grade is IV.
+
+Patient is a 57-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 7.07 cm and grade is I.
+
+Patient is a 58-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 6.19 cm and grade is IV.
+
+Patient is a 83-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 4.24 cm and grade is II.
+
+Patient is a 70-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 1.31 cm and grade is II.
+
+Patient is a 7-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 5.5 cm and grade is III.
+
+Patient is a 66-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 6.51 cm and grade is IV.
+
+Patient is a 84-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 2.62 cm and grade is IV.
+
+Patient is a 78-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 1.75 cm and grade is IV.
+
+Patient is a 55-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 1.91 cm and grade is III.
+
+Patient is a 24-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 1.64 cm and grade is III.
+
+Patient is a 23-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 3.96 cm and grade is II.
+
+Patient is a 66-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 5.6 cm and grade is I.
+
+Patient is a 59-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 5.71 cm and grade is IV.
+
+Patient is a 11-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 5.59 cm and grade is IV.
+
+Patient is a 87-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 7.18 cm and grade is I.
+
+Patient is a 31-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 0.97 cm and grade is IV.
+
+Patient is a 29-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 7.49 cm and grade is III.
+
+Patient is a 49-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 8.65 cm and grade is III.
+
+Patient is a 5-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 9.55 cm and grade is IV.
+
+Patient is a 4-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 1.7 cm and grade is III.
+
+Patient is a 55-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 8.23 cm and grade is III.
+
+Patient is a 1-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 0.88 cm and grade is IV.
+
+Patient is a 1-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 4.16 cm and grade is II.
+
+Patient is a 9-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 9.05 cm and grade is I.
+
+Patient is a 22-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 9.14 cm and grade is III.
+
+Patient is a 22-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 8.57 cm and grade is II.
+
+Patient is a 28-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 7.14 cm and grade is III.
+
+Patient is a 24-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 2.8 cm and grade is III.
+
+Patient is a 70-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 1.38 cm and grade is I.
+
+Patient is a 81-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 9.67 cm and grade is III.
+
+Patient is a 69-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 5.27 cm and grade is I.
+
+Patient is a 89-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 7.48 cm and grade is I.
+
+Patient is a 9-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 0.7 cm and grade is I.
+
+Patient is a 39-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 2.59 cm and grade is II.
+
+Patient is a 63-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 5.24 cm and grade is IV.
+
+Patient is a 9-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 9.97 cm and grade is II.
+
+Patient is a 78-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 9.64 cm and grade is IV.
+
+Patient is a 41-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 8.29 cm and grade is IV.
+
+Patient is a 12-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 2.96 cm and grade is I.
+
+Patient is a 43-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 9.25 cm and grade is III.
+
+Patient is a 60-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 5.89 cm and grade is I.
+
+Patient is a 51-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 8.89 cm and grade is III.
+
+Patient is a 7-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 6.28 cm and grade is IV.
+
+Patient is a 75-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 5.76 cm and grade is I.
+
+Patient is a 63-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 5.21 cm and grade is III.
+
+Patient is a 63-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 8.1 cm and grade is II.
+
+Patient is a 35-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 1.7 cm and grade is III.
+
+Patient is a 49-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 0.58 cm and grade is I.
+
+Patient is a 22-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 7.56 cm and grade is II.
+
+Patient is a 40-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 5.6 cm and grade is III.
+
+Patient is a 36-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 8.72 cm and grade is III.
+
+Patient is a 16-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 6.42 cm and grade is III.
+
+Patient is a 78-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 5.5 cm and grade is III.
+
+Patient is a 73-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 5.79 cm and grade is III.
+
+Patient is a 59-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 3.2 cm and grade is II.
+
+Patient is a 24-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 0.58 cm and grade is IV.
+
+Patient is a 40-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 0.93 cm and grade is II.
+
+Patient is a 82-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 3.13 cm and grade is II.
+
+Patient is a 62-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 3.34 cm and grade is II.
+
+Patient is a 62-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 9.98 cm and grade is IV.
+
+Patient is a 61-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 8.3 cm and grade is I.
+
+Patient is a 71-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 8.23 cm and grade is IV.
+
+Patient is a 13-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 5.02 cm and grade is II.
+
+Patient is a 79-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 8.28 cm and grade is III.
+
+Patient is a 16-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 2.11 cm and grade is III.
+
+Patient is a 73-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 7.72 cm and grade is II.
+
+Patient is a 41-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 7.25 cm and grade is III.
+
+Patient is a 76-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 7.57 cm and grade is II.
+
+Patient is a 47-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 5.8 cm and grade is III.
+
+Patient is a 48-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 9.4 cm and grade is IV.
+
+Patient is a 55-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 1.45 cm and grade is I.
+
+Patient is a 7-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 5.76 cm and grade is I.
+
+Patient is a 52-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 4.86 cm and grade is IV.
+
+Patient is a 84-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 0.63 cm and grade is IV.
+
+Patient is a 39-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 5.7 cm and grade is II.
+
+Patient is a 10-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 1.2 cm and grade is II.
+
+Patient is a 25-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 5.6 cm and grade is II.
+
+Patient is a 5-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 5.56 cm and grade is III.
+
+Patient is a 5-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 0.68 cm and grade is II.
+
+Patient is a 78-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 5.38 cm and grade is IV.
+
+Patient is a 87-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 6.96 cm and grade is I.
+
+Patient is a 61-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 2.11 cm and grade is III.
+
+Patient is a 64-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 1.1 cm and grade is II.
+
+Patient is a 27-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 0.91 cm and grade is III.
+
+Patient is a 17-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 6.11 cm and grade is III.
+
+Patient is a 1-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 8.79 cm and grade is II.
+
+Patient is a 39-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 1.67 cm and grade is III.
+
+Patient is a 10-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 2.43 cm and grade is I.
+
+Patient is a 33-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 4.99 cm and grade is IV.
+
+Patient is a 20-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 1.92 cm and grade is IV.
+
+Patient is a 74-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 0.6 cm and grade is I.
+
+Patient is a 33-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 1.62 cm and grade is III.
+
+Patient is a 13-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 1.14 cm and grade is II.
+
+Patient is a 72-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 4.28 cm and grade is III.
+
+Patient is a 6-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 9.97 cm and grade is I.
+
+Patient is a 74-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 0.94 cm and grade is III.
+
+Patient is a 54-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 4.69 cm and grade is IV.
+
+Patient is a 71-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 9.35 cm and grade is III.
+
+Patient is a 75-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 7.83 cm and grade is I.
+
+Patient is a 89-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 4.52 cm and grade is IV.
+
+Patient is a 23-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 9.35 cm and grade is III.
+
+Patient is a 74-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 9.53 cm and grade is III.
+
+Patient is a 87-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 9.83 cm and grade is IV.
+
+Patient is a 83-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 0.87 cm and grade is II.
+
+Patient is a 52-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 7.71 cm and grade is IV.
+
+Patient is a 31-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 9.72 cm and grade is II.
+
+Patient is a 34-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 4.92 cm and grade is I.
+
+Patient is a 36-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 3.97 cm and grade is I.
+
+Patient is a 33-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 1.7 cm and grade is IV.
+
+Patient is a 5-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 1.19 cm and grade is IV.
+
+Patient is a 27-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 7.76 cm and grade is I.
+
+Patient is a 5-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 7.4 cm and grade is II.
+
+Patient is a 54-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 2.17 cm and grade is I.
+
+Patient is a 22-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 6.01 cm and grade is IV.
+
+Patient is a 3-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 3.36 cm and grade is I.
+
+Patient is a 28-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 9.75 cm and grade is IV.
+
+Patient is a 27-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 7.59 cm and grade is IV.
+
+Patient is a 84-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 2.61 cm and grade is I.
+
+Patient is a 70-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 6.38 cm and grade is II.
+
+Patient is a 65-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 1.47 cm and grade is III.
+
+Patient is a 14-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 6.76 cm and grade is I.
+
+Patient is a 54-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 0.64 cm and grade is III.
+
+Patient is a 24-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 3.25 cm and grade is I.
+
+Patient is a 74-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 8.78 cm and grade is III.
+
+Patient is a 49-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 4.12 cm and grade is II.
+
+Patient is a 25-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 7.69 cm and grade is II.
+
+Patient is a 30-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 5.83 cm and grade is I.
+
+Patient is a 43-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 2.06 cm and grade is IV.
+
+Patient is a 78-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 3.34 cm and grade is III.
+
+Patient is a 53-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 1.91 cm and grade is IV.
+
+Patient is a 74-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 3.41 cm and grade is IV.
+
+Patient is a 74-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 1.61 cm and grade is IV.
+
+Patient is a 75-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 1.97 cm and grade is II.
+
+Patient is a 39-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 1.91 cm and grade is I.
+
+Patient is a 21-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 6.65 cm and grade is I.
+
+Patient is a 53-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 5.83 cm and grade is II.
+
+Patient is a 56-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 3.33 cm and grade is II.
+
+Patient is a 50-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 1.79 cm and grade is I.
+
+Patient is a 88-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 3.33 cm and grade is IV.
+
+Patient is a 34-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 2.08 cm and grade is III.
+
+Patient is a 57-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 3.84 cm and grade is III.
+
+Patient is a 38-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 7.03 cm and grade is III.
+
+Patient is a 40-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 6.81 cm and grade is IV.
+
+Patient is a 13-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 3.97 cm and grade is I.
+
+Patient is a 36-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 7.76 cm and grade is II.
+
+Patient is a 36-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 3.75 cm and grade is I.
+
+Patient is a 65-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 3.1 cm and grade is IV.
+
+Patient is a 66-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 4.26 cm and grade is II.
+
+Patient is a 10-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 1.0 cm and grade is IV.
+
+Patient is a 87-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 8.89 cm and grade is III.
+
+Patient is a 82-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 8.3 cm and grade is III.
+
+Patient is a 71-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 4.79 cm and grade is IV.
+
+Patient is a 74-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 2.51 cm and grade is II.
+
+Patient is a 18-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 6.96 cm and grade is II.
+
+Patient is a 10-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 7.33 cm and grade is I.
+
+Patient is a 75-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 1.38 cm and grade is III.
+
+Patient is a 22-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 7.68 cm and grade is I.
+
+Patient is a 78-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 9.91 cm and grade is I.
+
+Patient is a 63-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 0.77 cm and grade is IV.
+
+Patient is a 22-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 2.83 cm and grade is IV.
+
+Patient is a 23-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 0.98 cm and grade is I.
+
+Patient is a 73-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 8.78 cm and grade is III.
+
+Patient is a 84-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 5.8 cm and grade is IV.
+
+Patient is a 1-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 1.0 cm and grade is I.
+
+Patient is a 32-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 8.95 cm and grade is I.
+
+Patient is a 58-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 7.48 cm and grade is I.
+
+Patient is a 36-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 5.7 cm and grade is I.
+
+Patient is a 7-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 7.78 cm and grade is I.
+
+Patient is a 47-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 6.11 cm and grade is I.
+
+Patient is a 69-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 0.55 cm and grade is IV.
+
+Patient is a 5-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 4.16 cm and grade is III.
+
+Patient is a 40-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 8.32 cm and grade is I.
+
+Patient is a 16-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.75 cm and grade is II.
+
+Patient is a 57-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 4.78 cm and grade is IV.
+
+Patient is a 80-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 1.12 cm and grade is IV.
+
+Patient is a 82-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 8.53 cm and grade is I.
+
+Patient is a 31-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 9.7 cm and grade is IV.
+
+Patient is a 2-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 9.62 cm and grade is I.
+
+Patient is a 23-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 9.77 cm and grade is III.
+
+Patient is a 28-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 2.8 cm and grade is III.
+
+Patient is a 60-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 4.94 cm and grade is IV.
+
+Patient is a 7-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 5.24 cm and grade is IV.
+
+Patient is a 65-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 9.77 cm and grade is II.
+
+Patient is a 58-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 2.96 cm and grade is IV.
+
+Patient is a 8-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 0.85 cm and grade is II.
+
+Patient is a 71-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 8.38 cm and grade is III.
+
+Patient is a 42-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 5.7 cm and grade is III.
+
+Patient is a 32-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 0.6 cm and grade is I.
+
+Patient is a 30-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 5.6 cm and grade is III.
+
+Patient is a 52-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 7.13 cm and grade is II.
+
+Patient is a 68-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 9.62 cm and grade is IV.
+
+Patient is a 54-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 7.37 cm and grade is I.
+
+Patient is a 19-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 3.58 cm and grade is II.
+
+Patient is a 4-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 9.81 cm and grade is IV.
+
+Patient is a 33-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 4.26 cm and grade is I.
+
+Patient is a 53-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 5.8 cm and grade is III.
+
+Patient is a 45-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 6.84 cm and grade is II.
+
+Patient is a 24-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 8.89 cm and grade is IV.
+
+Patient is a 63-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 8.78 cm and grade is I.
+
+Patient is a 87-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 2.12 cm and grade is I.
+
+Patient is a 76-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 4.98 cm and grade is III.
+
+Patient is a 59-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 0.98 cm and grade is IV.
+
+Patient is a 52-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 7.66 cm and grade is III.
+
+Patient is a 73-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 3.49 cm and grade is III.
+
+Patient is a 40-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.48 cm and grade is IV.
+
+Patient is a 76-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 8.31 cm and grade is IV.
+
+Patient is a 73-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 5.83 cm and grade is IV.
+
+Patient is a 16-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 7.49 cm and grade is II.
+
+Patient is a 78-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 5.57 cm and grade is IV.
+
+Patient is a 63-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 7.33 cm and grade is I.
+
+Patient is a 50-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 6.71 cm and grade is III.
+
+Patient is a 24-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 1.39 cm and grade is II.
+
+Patient is a 42-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 3.34 cm and grade is IV.
+
+Patient is a 8-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 3.04 cm and grade is II.
+
+Patient is a 84-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 7.03 cm and grade is IV.
+
+Patient is a 58-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 9.04 cm and grade is II.
+
+Patient is a 39-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 9.97 cm and grade is III.
+
+Patient is a 43-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 9.04 cm and grade is III.
+
+Patient is a 25-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 4.03 cm and grade is I.
+
+Patient is a 74-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 2.11 cm and grade is I.
+
+Patient is a 11-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 5.0 cm and grade is IV.
+
+Patient is a 4-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 2.23 cm and grade is III.
+
+Patient is a 20-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 4.58 cm and grade is II.
+
+Patient is a 75-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 1.14 cm and grade is II.
+
+Patient is a 43-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 4.63 cm and grade is II.
+
+Patient is a 34-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 9.05 cm and grade is I.
+
+Patient is a 33-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 1.57 cm and grade is II.
+
+Patient is a 42-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 9.97 cm and grade is I.
+
+Patient is a 66-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 3.49 cm and grade is I.
+
+Patient is a 77-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 0.73 cm and grade is IV.
+
+Patient is a 50-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 5.54 cm and grade is II.
+
+Patient is a 66-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 7.59 cm and grade is II.
+
+Patient is a 5-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 4.32 cm and grade is III.
+
+Patient is a 4-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 4.94 cm and grade is IV.
+
+Patient is a 29-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 8.75 cm and grade is III.
+
+Patient is a 79-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 1.2 cm and grade is IV.
+
+Patient is a 88-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 5.06 cm and grade is II.
+
+Patient is a 87-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 4.29 cm and grade is I.
+
+Patient is a 79-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 4.58 cm and grade is I.
+
+Patient is a 25-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 2.3 cm and grade is I.
+
+Patient is a 22-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 4.45 cm and grade is I.
+
+Patient is a 43-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 7.94 cm and grade is I.
+
+Patient is a 15-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 1.16 cm and grade is III.
+
+Patient is a 5-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 9.98 cm and grade is IV.
+
+Patient is a 75-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 3.27 cm and grade is II.
+
+Patient is a 28-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 9.1 cm and grade is III.
+
+Patient is a 13-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 2.85 cm and grade is IV.
+
+Patient is a 46-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 4.86 cm and grade is I.
+
+Patient is a 34-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 8.89 cm and grade is IV.
+
+Patient is a 64-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 1.2 cm and grade is IV.
+
+Patient is a 53-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 5.18 cm and grade is I.
+
+Patient is a 26-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 2.34 cm and grade is I.
+
+Patient is a 58-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 5.7 cm and grade is I.
+
+Patient is a 16-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 9.35 cm and grade is II.
+
+Patient is a 63-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 9.96 cm and grade is I.
+
+Patient is a 50-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 6.3 cm and grade is II.
+
+Patient is a 45-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 2.11 cm and grade is I.
+
+Patient is a 72-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 5.54 cm and grade is II.
+
+Patient is a 27-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 0.94 cm and grade is IV.
+
+Patient is a 13-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 1.91 cm and grade is III.
+
+Patient is a 13-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 6.83 cm and grade is IV.
+
+Patient is a 63-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 4.36 cm and grade is IV.
+
+Patient is a 89-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 9.1 cm and grade is I.
+
+Patient is a 18-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 1.1 cm and grade is II.
+
+Patient is a 24-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 0.94 cm and grade is III.
+
+Patient is a 69-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 1.14 cm and grade is I.
+
+Patient is a 24-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 9.74 cm and grade is I.
+
+Patient is a 48-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 6.61 cm and grade is I.
+
+Patient is a 38-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 3.56 cm and grade is IV.
+
+Patient is a 77-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 5.96 cm and grade is II.
+
+Patient is a 11-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 8.3 cm and grade is II.
+
+Patient is a 88-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 8.81 cm and grade is III.
+
+Patient is a 32-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 4.58 cm and grade is II.
+
+Patient is a 48-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 2.83 cm and grade is II.
+
+Patient is a 5-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 1.6 cm and grade is I.
+
+Patient is a 22-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 7.03 cm and grade is I.
+
+Patient is a 2-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 5.06 cm and grade is IV.
+
+Patient is a 29-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 8.75 cm and grade is I.
+
+Patient is a 29-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 1.19 cm and grade is I.
+
+Patient is a 9-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 7.77 cm and grade is I.
+
+Patient is a 2-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 2.69 cm and grade is I.
+
+Patient is a 1-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 4.04 cm and grade is IV.
+
+Patient is a 18-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 3.34 cm and grade is I.
+
+Patient is a 36-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 5.27 cm and grade is III.
+
+Patient is a 50-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 8.62 cm and grade is III.
+
+Patient is a 81-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 1.54 cm and grade is III.
+
+Patient is a 31-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 5.29 cm and grade is III.
+
+Patient is a 18-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 2.83 cm and grade is I.
+
+Patient is a 47-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 7.74 cm and grade is III.
+
+Patient is a 65-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 7.98 cm and grade is I.
+
+Patient is a 57-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 6.95 cm and grade is IV.
+
+Patient is a 38-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 7.77 cm and grade is III.
+
+Patient is a 60-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 6.58 cm and grade is II.
+
+Patient is a 63-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 6.42 cm and grade is III.
+
+Patient is a 16-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 4.02 cm and grade is III.
+
+Patient is a 83-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 6.07 cm and grade is I.
+
+Patient is a 77-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 0.89 cm and grade is III.
+
+Patient is a 51-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 2.66 cm and grade is II.
+
+Patient is a 7-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 2.78 cm and grade is I.
+
+Patient is a 15-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 8.0 cm and grade is I.
+
+Patient is a 63-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 2.7 cm and grade is IV.
+
+Patient is a 45-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 7.4 cm and grade is IV.
+
+Patient is a 5-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 3.06 cm and grade is III.
+
+Patient is a 69-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 7.93 cm and grade is IV.
+
+Patient is a 4-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 8.74 cm and grade is IV.
+
+Patient is a 74-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 4.02 cm and grade is IV.
+
+Patient is a 69-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.89 cm and grade is I.
+
+Patient is a 38-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 6.34 cm and grade is I.
+
+Patient is a 26-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 6.25 cm and grade is I.
+
+Patient is a 38-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 6.38 cm and grade is IV.
+
+Patient is a 35-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 5.21 cm and grade is I.
+
+Patient is a 54-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 7.4 cm and grade is IV.
+
+Patient is a 48-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 9.12 cm and grade is I.
+
+Patient is a 29-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 3.63 cm and grade is I.
+
+Patient is a 21-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 5.59 cm and grade is II.
+
+Patient is a 57-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 6.06 cm and grade is III.
+
+Patient is a 66-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 9.72 cm and grade is IV.
+
+Patient is a 14-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 7.16 cm and grade is II.
+
+Patient is a 75-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 3.96 cm and grade is I.
+
+Patient is a 36-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 9.03 cm and grade is IV.
+
+Patient is a 58-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 8.79 cm and grade is I.
+
+Patient is a 47-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 3.96 cm and grade is III.
+
+Patient is a 69-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 7.64 cm and grade is II.
+
+Patient is a 19-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 6.44 cm and grade is III.
+
+Patient is a 40-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 6.76 cm and grade is II.
+
+Patient is a 9-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 3.05 cm and grade is I.
+
+Patient is a 26-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 1.9 cm and grade is III.
+
+Patient is a 58-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 9.83 cm and grade is III.
+
+Patient is a 43-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 2.61 cm and grade is I.
+
+Patient is a 50-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 9.65 cm and grade is III.
+
+Patient is a 14-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 9.49 cm and grade is IV.
+
+Patient is a 80-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 5.24 cm and grade is II.
+
+Patient is a 80-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 2.1 cm and grade is II.
+
+Patient is a 78-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 6.92 cm and grade is II.
+
+Patient is a 53-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 3.7 cm and grade is IV.
+
+Patient is a 6-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 8.99 cm and grade is II.
+
+Patient is a 5-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 2.96 cm and grade is I.
+
+Patient is a 69-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 1.82 cm and grade is III.
+
+Patient is a 70-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 4.8 cm and grade is IV.
+
+Patient is a 67-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 6.5 cm and grade is II.
+
+Patient is a 15-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 4.68 cm and grade is I.
+
+Patient is a 38-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 4.68 cm and grade is III.
+
+Patient is a 35-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 3.0 cm and grade is III.
+
+Patient is a 18-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 2.63 cm and grade is IV.
+
+Patient is a 9-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 6.82 cm and grade is IV.
+
+Patient is a 15-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 3.14 cm and grade is IV.
+
+Patient is a 50-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 4.31 cm and grade is I.
+
+Patient is a 57-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 2.33 cm and grade is I.
+
+Patient is a 33-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 9.54 cm and grade is IV.
+
+Patient is a 78-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 7.41 cm and grade is II.
+
+Patient is a 71-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 8.78 cm and grade is III.
+
+Patient is a 38-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 4.68 cm and grade is III.
+
+Patient is a 2-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 5.88 cm and grade is I.
+
+Patient is a 17-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 2.1 cm and grade is III.
+
+Patient is a 47-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 3.42 cm and grade is II.
+
+Patient is a 58-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 0.91 cm and grade is III.
+
+Patient is a 14-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 3.84 cm and grade is I.
+
+Patient is a 62-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 4.75 cm and grade is I.
+
+Patient is a 64-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 5.54 cm and grade is II.
+
+Patient is a 55-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 6.48 cm and grade is II.
+
+Patient is a 53-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 8.2 cm and grade is III.
+
+Patient is a 20-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 3.74 cm and grade is III.
+
+Patient is a 54-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 2.85 cm and grade is I.
+
+Patient is a 45-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 1.75 cm and grade is II.
+
+Patient is a 66-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 4.68 cm and grade is II.
+
+Patient is a 12-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 3.56 cm and grade is II.
+
+Patient is a 39-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 0.68 cm and grade is III.
+
+Patient is a 62-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 9.13 cm and grade is II.
+
+Patient is a 33-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 4.78 cm and grade is I.
+
+Patient is a 25-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 5.8 cm and grade is I.
+
+Patient is a 62-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 9.62 cm and grade is III.
+
+Patient is a 63-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 2.35 cm and grade is IV.
+
+Patient is a 21-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 9.24 cm and grade is III.
+
+Patient is a 72-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 3.02 cm and grade is IV.
+
+Patient is a 34-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 8.36 cm and grade is II.
+
+Patient is a 12-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 5.05 cm and grade is III.
+
+Patient is a 41-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 7.37 cm and grade is I.
+
+Patient is a 77-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 2.87 cm and grade is II.
+
+Patient is a 16-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 2.07 cm and grade is I.
+
+Patient is a 44-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 3.08 cm and grade is II.
+
+Patient is a 69-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 9.78 cm and grade is III.
+
+Patient is a 30-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 2.61 cm and grade is IV.
+
+Patient is a 40-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 4.03 cm and grade is II.
+
+Patient is a 4-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 0.55 cm and grade is IV.
+
+Patient is a 52-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 7.62 cm and grade is II.
+
+Patient is a 70-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 1.21 cm and grade is I.
+
+Patient is a 53-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 4.46 cm and grade is I.
+
+Patient is a 16-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 6.34 cm and grade is II.
+
+Patient is a 3-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 0.93 cm and grade is IV.
+
+Patient is a 10-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 9.88 cm and grade is III.
+
+Patient is a 36-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 4.69 cm and grade is III.
+
+Patient is a 57-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 2.54 cm and grade is I.
+
+Patient is a 24-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 6.81 cm and grade is III.
+
+Patient is a 14-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 3.1 cm and grade is I.
+
+Patient is a 64-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 9.79 cm and grade is III.
+
+Patient is a 26-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 0.77 cm and grade is II.
+
+Patient is a 25-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 2.88 cm and grade is I.
+
+Patient is a 75-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 2.57 cm and grade is I.
+
+Patient is a 20-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 0.87 cm and grade is II.
+
+Patient is a 56-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 6.39 cm and grade is I.
+
+Patient is a 28-year-old Male diagnosed with Meningioma in the Parietal Lobe. Tumor size is 3.63 cm and grade is III.
+
+Patient is a 24-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 8.07 cm and grade is III.
+
+Patient is a 30-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 8.99 cm and grade is I.
+
+Patient is a 73-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 8.29 cm and grade is III.
+
+Patient is a 18-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 6.92 cm and grade is IV.
+
+Patient is a 20-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 7.7 cm and grade is I.
+
+Patient is a 10-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 9.77 cm and grade is II.
+
+Patient is a 55-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 7.4 cm and grade is IV.
+
+Patient is a 46-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 3.34 cm and grade is I.
+
+Patient is a 69-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 8.76 cm and grade is II.
+
+Patient is a 58-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 7.14 cm and grade is III.
+
+Patient is a 23-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 5.68 cm and grade is II.
+
+Patient is a 52-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 7.4 cm and grade is IV.
+
+Patient is a 27-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 2.76 cm and grade is III.
+
+Patient is a 4-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 8.92 cm and grade is I.
+
+Patient is a 47-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 6.3 cm and grade is III.
+
+Patient is a 67-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 8.11 cm and grade is I.
+
+Patient is a 62-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 9.68 cm and grade is I.
+
+Patient is a 26-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 3.46 cm and grade is II.
+
+Patient is a 10-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 5.43 cm and grade is II.
+
+Patient is a 25-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 8.76 cm and grade is II.
+
+Patient is a 58-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 3.97 cm and grade is IV.
+
+Patient is a 65-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 7.65 cm and grade is IV.
+
+Patient is a 47-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 4.81 cm and grade is II.
+
+Patient is a 86-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 4.26 cm and grade is IV.
+
+Patient is a 20-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 5.58 cm and grade is III.
+
+Patient is a 31-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 0.94 cm and grade is III.
+
+Patient is a 6-year-old Female diagnosed with Astrocytoma in the Cerebellum. Tumor size is 9.36 cm and grade is IV.
+
+Patient is a 49-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 8.39 cm and grade is IV.
+
+Patient is a 87-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 5.39 cm and grade is III.
+
+Patient is a 86-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 4.99 cm and grade is I.
+
+Patient is a 51-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 9.22 cm and grade is III.
+
+Patient is a 35-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 6.13 cm and grade is III.
+
+Patient is a 16-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 7.9 cm and grade is IV.
+
+Patient is a 11-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 0.68 cm and grade is III.
+
+Patient is a 43-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 5.27 cm and grade is IV.
+
+Patient is a 43-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 5.9 cm and grade is IV.
+
+Patient is a 78-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 5.99 cm and grade is II.
+
+Patient is a 80-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 9.45 cm and grade is III.
+
+Patient is a 17-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 2.66 cm and grade is I.
+
+Patient is a 21-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 6.68 cm and grade is II.
+
+Patient is a 65-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 5.17 cm and grade is IV.
+
+Patient is a 84-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 1.57 cm and grade is IV.
+
+Patient is a 23-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 3.68 cm and grade is I.
+
+Patient is a 7-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 7.77 cm and grade is IV.
+
+Patient is a 20-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 4.81 cm and grade is III.
+
+Patient is a 36-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 5.54 cm and grade is II.
+
+Patient is a 55-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 2.74 cm and grade is IV.
+
+Patient is a 89-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 5.26 cm and grade is IV.
+
+Patient is a 75-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.3 cm and grade is I.
+
+Patient is a 37-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 4.47 cm and grade is III.
+
+Patient is a 23-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 9.69 cm and grade is IV.
+
+Patient is a 31-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 8.79 cm and grade is I.
+
+Patient is a 42-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 3.4 cm and grade is IV.
+
+Patient is a 87-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 7.98 cm and grade is I.
+
+Patient is a 71-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 1.61 cm and grade is I.
+
+Patient is a 85-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 4.32 cm and grade is III.
+
+Patient is a 36-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 7.48 cm and grade is IV.
+
+Patient is a 65-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 9.24 cm and grade is III.
+
+Patient is a 87-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 4.46 cm and grade is I.
+
+Patient is a 22-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 6.81 cm and grade is II.
+
+Patient is a 87-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.95 cm and grade is IV.
+
+Patient is a 11-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 2.42 cm and grade is II.
+
+Patient is a 59-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 2.65 cm and grade is IV.
+
+Patient is a 55-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 8.23 cm and grade is III.
+
+Patient is a 27-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 1.76 cm and grade is III.
+
+Patient is a 25-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 9.62 cm and grade is III.
+
+Patient is a 83-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 4.63 cm and grade is III.
+
+Patient is a 35-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 7.36 cm and grade is III.
+
+Patient is a 18-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 5.47 cm and grade is II.
+
+Patient is a 81-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 0.77 cm and grade is III.
+
+Patient is a 13-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 0.96 cm and grade is I.
+
+Patient is a 32-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 6.5 cm and grade is I.
+
+Patient is a 61-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 2.94 cm and grade is II.
+
+Patient is a 29-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 2.25 cm and grade is IV.
+
+Patient is a 53-year-old Male diagnosed with Glioblastoma in the Cerebellum. Tumor size is 5.6 cm and grade is I.
+
+Patient is a 60-year-old Female diagnosed with Astrocytoma in the Brainstem. Tumor size is 9.08 cm and grade is IV.
+
+Patient is a 4-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 3.82 cm and grade is II.
+
+Patient is a 14-year-old Female diagnosed with Meningioma in the Cerebellum. Tumor size is 3.78 cm and grade is IV.
+
+Patient is a 16-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 7.55 cm and grade is IV.
+
+Patient is a 64-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 2.24 cm and grade is IV.
+
+Patient is a 46-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 1.76 cm and grade is IV.
+
+Patient is a 19-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 9.26 cm and grade is II.
+
+Patient is a 48-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 0.6 cm and grade is I.
+
+Patient is a 40-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 0.9 cm and grade is III.
+
+Patient is a 55-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 6.5 cm and grade is IV.
+
+Patient is a 61-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 1.25 cm and grade is I.
+
+Patient is a 63-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 9.83 cm and grade is I.
+
+Patient is a 72-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 6.9 cm and grade is II.
+
+Patient is a 51-year-old Female diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 8.79 cm and grade is I.
+
+Patient is a 75-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 8.62 cm and grade is II.
+
+Patient is a 45-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 1.91 cm and grade is IV.
+
+Patient is a 52-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 7.36 cm and grade is IV.
+
+Patient is a 80-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 7.74 cm and grade is III.
+
+Patient is a 40-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 8.0 cm and grade is III.
+
+Patient is a 55-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 3.13 cm and grade is III.
+
+Patient is a 42-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 7.74 cm and grade is I.
+
+Patient is a 57-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 0.6 cm and grade is IV.
+
+Patient is a 5-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 1.87 cm and grade is II.
+
+Patient is a 51-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 3.74 cm and grade is III.
+
+Patient is a 10-year-old Male diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 7.33 cm and grade is II.
+
+Patient is a 46-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 8.13 cm and grade is II.
+
+Patient is a 75-year-old Male diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 9.78 cm and grade is III.
+
+Patient is a 14-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 7.78 cm and grade is IV.
+
+Patient is a 27-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 6.87 cm and grade is III.
+
+Patient is a 23-year-old Female diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 0.58 cm and grade is II.
+
+Patient is a 17-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 4.61 cm and grade is III.
+
+Patient is a 32-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 1.03 cm and grade is II.
+
+Patient is a 49-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 7.48 cm and grade is II.
+
+Patient is a 4-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 2.32 cm and grade is III.
+
+Patient is a 18-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 4.19 cm and grade is I.
+
+Patient is a 80-year-old Male diagnosed with Meningioma in the Frontal Lobe. Tumor size is 9.92 cm and grade is III.
+
+Patient is a 66-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 1.91 cm and grade is I.
+
+Patient is a 50-year-old Male diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 6.65 cm and grade is II.
+
+Patient is a 46-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 2.22 cm and grade is II.
+
+Patient is a 83-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 9.84 cm and grade is I.
+
+Patient is a 56-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 0.6 cm and grade is II.
+
+Patient is a 46-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 2.33 cm and grade is I.
+
+Patient is a 46-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 6.44 cm and grade is I.
+
+Patient is a 62-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 9.04 cm and grade is II.
+
+Patient is a 68-year-old Female diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 4.17 cm and grade is IV.
+
+Patient is a 37-year-old Male diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 1.79 cm and grade is I.
+
+Patient is a 59-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 1.38 cm and grade is III.
+
+Patient is a 31-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 4.81 cm and grade is III.
+
+Patient is a 69-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 7.17 cm and grade is II.
+
+Patient is a 4-year-old Female diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 9.91 cm and grade is IV.
+
+Patient is a 14-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 3.2 cm and grade is II.
+
+Patient is a 34-year-old Male diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 7.36 cm and grade is IV.
+
+Patient is a 62-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 2.05 cm and grade is I.
+
+Patient is a 31-year-old Male diagnosed with Astrocytoma in the Occipital Lobe. Tumor size is 7.36 cm and grade is I.
+
+Patient is a 10-year-old Male diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 2.74 cm and grade is I.
+
+Patient is a 5-year-old Male diagnosed with Astrocytoma in the Cerebellum. Tumor size is 4.78 cm and grade is I.
+
+Patient is a 27-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 2.65 cm and grade is III.
+
+Patient is a 39-year-old Male diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 3.74 cm and grade is III.
+
+Patient is a 52-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 6.46 cm and grade is II.
+
+Patient is a 19-year-old Female diagnosed with Glioblastoma in the Occipital Lobe. Tumor size is 0.88 cm and grade is IV.
+
+Patient is a 67-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 7.49 cm and grade is I.
+
+Patient is a 75-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 8.21 cm and grade is I.
+
+Patient is a 1-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 8.21 cm and grade is IV.
+
+Patient is a 80-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 6.65 cm and grade is IV.
+
+Patient is a 22-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 0.94 cm and grade is II.
+
+Patient is a 59-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 8.21 cm and grade is IV.
+
+Patient is a 89-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 2.78 cm and grade is I.
+
+Patient is a 17-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 3.51 cm and grade is I.
+
+Patient is a 45-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 2.83 cm and grade is I.
+
+Patient is a 58-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 8.62 cm and grade is I.
+
+Patient is a 5-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 1.31 cm and grade is I.
+
+Patient is a 8-year-old Male diagnosed with Ependymoma in the Brainstem. Tumor size is 8.81 cm and grade is II.
+
+Patient is a 26-year-old Male diagnosed with Glioblastoma in the Brainstem. Tumor size is 4.54 cm and grade is I.
+
+Patient is a 59-year-old Female diagnosed with Oligodendroglioma in the Parietal Lobe. Tumor size is 1.08 cm and grade is II.
+
+Patient is a 24-year-old Male diagnosed with Meningioma in the Brainstem. Tumor size is 4.43 cm and grade is I.
+
+Patient is a 59-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 2.94 cm and grade is III.
+
+Patient is a 10-year-old Female diagnosed with Ependymoma in the Frontal Lobe. Tumor size is 6.45 cm and grade is III.
+
+Patient is a 2-year-old Female diagnosed with Glioblastoma in the Parietal Lobe. Tumor size is 7.72 cm and grade is III.
+
+Patient is a 79-year-old Female diagnosed with Glioblastoma in the Cerebellum. Tumor size is 1.19 cm and grade is III.
+
+Patient is a 35-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 0.89 cm and grade is II.
+
+Patient is a 88-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 9.64 cm and grade is II.
+
+Patient is a 12-year-old Male diagnosed with Meningioma in the Occipital Lobe. Tumor size is 0.94 cm and grade is IV.
+
+Patient is a 63-year-old Female diagnosed with Glioblastoma in the Brainstem. Tumor size is 6.35 cm and grade is I.
+
+Patient is a 70-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 8.25 cm and grade is III.
+
+Patient is a 71-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 4.56 cm and grade is II.
+
+Patient is a 61-year-old Male diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 6.42 cm and grade is I.
+
+Patient is a 24-year-old Male diagnosed with Ependymoma in the Cerebellum. Tumor size is 8.78 cm and grade is I.
+
+Patient is a 29-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 9.13 cm and grade is II.
+
+Patient is a 14-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 8.78 cm and grade is III.
+
+Patient is a 58-year-old Male diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 8.26 cm and grade is IV.
+
+Patient is a 42-year-old Female diagnosed with Ependymoma in the Brainstem. Tumor size is 0.68 cm and grade is I.
+
+Patient is a 70-year-old Female diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 7.69 cm and grade is IV.
+
+Patient is a 15-year-old Female diagnosed with Ependymoma in the Parietal Lobe. Tumor size is 3.1 cm and grade is III.
+
+Patient is a 48-year-old Male diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 9.13 cm and grade is III.
+
+Patient is a 33-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 6.6 cm and grade is IV.
+
+Patient is a 84-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 9.14 cm and grade is III.
+
+Patient is a 39-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 6.6 cm and grade is I.
+
+Patient is a 17-year-old Female diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 5.5 cm and grade is IV.
+
+Patient is a 63-year-old Male diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 5.05 cm and grade is III.
+
+Patient is a 81-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 3.67 cm and grade is IV.
+
+Patient is a 31-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 4.23 cm and grade is I.
+
+Patient is a 48-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 8.93 cm and grade is III.
+
+Patient is a 57-year-old Female diagnosed with Meningioma in the Occipital Lobe. Tumor size is 2.13 cm and grade is I.
+
+Patient is a 83-year-old Female diagnosed with Meningioma in the Temporal Lobe. Tumor size is 1.34 cm and grade is III.
+
+Patient is a 80-year-old Female diagnosed with Oligodendroglioma in the Brainstem. Tumor size is 4.87 cm and grade is II.
+
+Patient is a 16-year-old Male diagnosed with Oligodendroglioma in the Frontal Lobe. Tumor size is 3.34 cm and grade is III.
+
+Patient is a 10-year-old Male diagnosed with Astrocytoma in the Brainstem. Tumor size is 8.24 cm and grade is IV.
+
+Patient is a 43-year-old Male diagnosed with Meningioma in the Cerebellum. Tumor size is 1.36 cm and grade is III.
+
+Patient is a 28-year-old Female diagnosed with Meningioma in the Brainstem. Tumor size is 3.13 cm and grade is I.
+
+Patient is a 83-year-old Female diagnosed with Ependymoma in the Cerebellum. Tumor size is 5.86 cm and grade is I.
+
+Patient is a 28-year-old Female diagnosed with Oligodendroglioma in the Temporal Lobe. Tumor size is 5.27 cm and grade is III.
+
+Patient is a 69-year-old Female diagnosed with Meningioma in the Frontal Lobe. Tumor size is 6.73 cm and grade is IV.
+
+Patient is a 67-year-old Female diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 1.89 cm and grade is II.
+
+Patient is a 59-year-old Female diagnosed with Astrocytoma in the Parietal Lobe. Tumor size is 8.75 cm and grade is IV.
+
+Patient is a 16-year-old Male diagnosed with Meningioma in the Temporal Lobe. Tumor size is 3.84 cm and grade is II.
+
+Patient is a 49-year-old Male diagnosed with Oligodendroglioma in the Cerebellum. Tumor size is 2.57 cm and grade is I.
+
+Patient is a 69-year-old Male diagnosed with Astrocytoma in the Temporal Lobe. Tumor size is 1.03 cm and grade is IV.
+
+Patient is a 30-year-old Male diagnosed with Ependymoma in the Temporal Lobe. Tumor size is 4.57 cm and grade is II.
+
+Patient is a 9-year-old Male diagnosed with Astrocytoma in the Frontal Lobe. Tumor size is 6.5 cm and grade is III.
+
+Patient is a 42-year-old Female diagnosed with Glioblastoma in the Temporal Lobe. Tumor size is 7.69 cm and grade is I.
+
+Patient is a 87-year-old Female diagnosed with Glioblastoma in the Frontal Lobe. Tumor size is 3.21 cm and grade is III.
+
+Patient is a 73-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 1.1 cm and grade is I.
+
+Patient is a 5-year-old Female diagnosed with Meningioma in the Parietal Lobe. Tumor size is 7.36 cm and grade is IV.
+
