@@ -1,4 +1,4 @@
-Patient is a 48-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 9.23 cm and grade is I.
+Patient is a 47-year-old Female diagnosed with Oligodendroglioma in the Occipital Lobe. Tumor size is 9.23 cm and grade is I.
 
 Patient is a 47-year-old Male diagnosed with Ependymoma in the Occipital Lobe. Tumor size is 0.87 cm and grade is II.
 
